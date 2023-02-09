@@ -1,0 +1,9 @@
+div {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+
+img {
+    width: 50%;    
+}
