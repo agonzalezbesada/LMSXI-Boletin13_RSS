@@ -7,19 +7,26 @@
         <link>http://miservidor.com</link>
         <description>Ultimas noticias sobre la disputa entre los grandes inversionistas y los inversores independientes en lo relativo a GameStop</description>
         <lenguage>es-ES</lenguage>
+        <category>Investments</category>
+        <!--Debería de ser el correo, pero los desarrolladores no suelen incluirlo para evitar spam -->
+        <author>https://github.com/agonzalezbesada</author>
 
         <item>
             <title>Elon Musk entra al ruedo</title>
             <link>http://miservidor.com/</link>
-            <description>Elon Musk dispara las inversiones en largo de GameStop con un solo tuitt</description>
+            <description>Elon Musk dispara las "inversiones en largo" de GameStop con un solo tuit</description>
             <pubDate>Mon, 2 Feb 2022 00:00:00 GMT</pubDate>
+            <category>Investments</category>
+            <comments>https://www.w3schools.com/comments</comments>
         </item>
 
         <item>
             <title>Fiebre del oro en Wall Street</title>
-            <link></link>
+            <link>http:/miservidor.com/contenidos.asp?nivel=18&amp;cont=567</link>
             <description>Se disparan las acciones de GameStop un 140%</description>
             <pubDate>Mon, 3 Feb 2022 00:00:00 GMT</pubDate>
+            <category>Investments</category>
+            <comments>https://www.w3schools.com/comments</comments>
         </item>
 
     </channel>
